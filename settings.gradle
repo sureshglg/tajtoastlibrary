@@ -1,0 +1,2 @@
+include ':app', ':rummytoast'
+rootProject.name='RummyToastApp'
